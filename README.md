@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm WebOlimp</h1>
-<h3 align="center">Developer teem from Ukrane</h3>
+<h3 align="center">Developer teem from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
