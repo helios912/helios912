@@ -8,10 +8,10 @@
                 margin-bottom: .625rem;
                 font-size: 2.375rem;
                 font-weight: 700;
-                line-height: 2.75rem;" ><strong>Hello! I&#x27;m Mukola, 👋</strong>strong></div>
+                line-height: 2.75rem;" ><strong>Hello! I&#x27;m Mukola, 👋</strong></div>
                 <div class="text_h2" style="font-size: 2rem;
                 font-weight: 700;
-                line-height: 2.25rem;"<strong>>Programmer-Designer and Frontend Developer</strong></div></div>
+                line-height: 2.25rem;"><strong>Programmer-Designer and Frontend Developer</strong></div></div>
              </div>
              <img src="https://ltdfoto.ru/images/2024/01/13/young-man.jpg" loading="lazy" alt="" class="image-4" style="z-index: -1;
             style="width: 200px; height: 150px;"
