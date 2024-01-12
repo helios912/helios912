@@ -82,7 +82,7 @@
                 <div class="text_content" style="max-width: 50em;
                 font-size: 1.2em;">Thank you for visiting and looking forward to our collaboration! 🚀</div>
              </div>
-             <div class="wrap_image"><img src="https://ltdfoto.ru/images/2024/01/13/html.jpg" loading="lazy" alt="" class="pik1" style="width: 200px; height: 150px;" ><img src="https://ltdfoto.ru/images/2024/01/13/webw.jpg" loading="lazy" alt="" class="pik2" style="width: 200px; height: 150px;"></div>
+             <div class="wrap_image"><img src="https://ltdfoto.ru/images/2024/01/13/html.jpg" loading="lazy" alt="" class="pik1" style="width: 200px; height: 150px;" >       <img src="https://ltdfoto.ru/images/2024/01/13/webw.jpg" loading="lazy" alt="" class="pik2" style="width: 200px; height: 150px;"></div>
           </div>
        </div>
     </div>
