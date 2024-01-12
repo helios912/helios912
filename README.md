@@ -14,7 +14,7 @@
                 line-height: 2.25rem;">Programmer-Designer and Frontend Developer</div>
              </div>
              <img src="https://ltdfoto.ru/images/2024/01/13/young-man.jpg" loading="lazy" alt="" class="image-4" style="z-index: -1;
-             max-width: 30em;
+            style="width: 200px; height: 150px;"
              opacity: 1;
              object-fit: fill;
              display: block;
@@ -76,13 +76,13 @@
                    <div class="icon_wrapper" style="flex-flow: wrap;
                    justify-content: flex-start;
                    align-items: flex-start;
-                   display: flex;"><a href="https://www.instagram.com/web_olimp" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/instagram_4138124-1.png" loading="lazy" alt="" class="icon_item" style="width: 40px; height: 40px;"></a><a href="https://t.me/Web_Olimp" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/whatsapp_4138132.png" loading="lazy" alt="" class="icon_item" style="max-width: 5em;"></a><a href="https://www.pinterest.com/WebOlimp/" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/pinterest_4138141.png" loading="lazy" alt="" class="icon_item" style="max-width: 5em;"></a><a href="https://www.youtube.com/@WebOlimp." class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/youtube_4138134.png" loading="lazy" alt="" class="icon_item" style="max-width: 5em;"></a><a href="https://www.behance.net/DenkoMuk" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/behance_3621439.png" loading="lazy" alt="" class="icon_item" style="max-width: 5em;"></a></div>
+                   display: flex;"><a href="https://www.instagram.com/web_olimp" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/instagram_4138124-1.png" loading="lazy" alt="" class="icon_item" style="width: 50px; height: 50px;"></a><a href="https://t.me/Web_Olimp" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/whatsapp_4138132.png" loading="lazy" alt="" class="icon_item" style="width: 50px; height: 50px"></a><a href="https://www.pinterest.com/WebOlimp/" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/pinterest_4138141.png" loading="lazy" alt="" class="icon_item" style="width: 50px; height: 50px"></a><a href="https://www.youtube.com/@WebOlimp." class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/youtube_4138134.png" loading="lazy" alt="" class="icon_item" style="width: 50px; height: 50px"></a><a href="https://www.behance.net/DenkoMuk" class="soc_link w-inline-block"><img src="https://ltdfoto.ru/images/2024/01/13/behance_3621439.png" loading="lazy" alt="" class="icon_item" style="width: 50px; height: 50px"></a></div>
                 </div>
                 <div class="s30" style="height: 2.5em;"></div>
                 <div class="text_content" style="max-width: 50em;
                 font-size: 1.2em;">Thank you for visiting and looking forward to our collaboration! 🚀</div>
              </div>
-             <div class="wrap_image"><img src="https://ltdfoto.ru/images/2024/01/13/html.jpg" loading="lazy" alt="" class="pik1"><img src="https://ltdfoto.ru/images/2024/01/13/webw.jpg" loading="lazy" alt="" class="pik2"></div>
+             <div class="wrap_image"><img src="https://ltdfoto.ru/images/2024/01/13/html.jpg" loading="lazy" alt="" class="pik1" style="width: 200px; height: 150px;" ><img src="https://ltdfoto.ru/images/2024/01/13/webw.jpg" loading="lazy" alt="" class="pik2" style="width: 200px; height: 150px;"></div>
           </div>
        </div>
     </div>
