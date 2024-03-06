@@ -1,0 +1,9 @@
+gulp images - кидати в папку src перетворить images автоматично 
+gulp sprite - створення свг спрайта кидати в папку src
+gulp fonts -  кидати src експортує fonts  
+gulp building - збірка проекта в папку dist 
+gulp  build - якщо треба стерти dist і ще раз записати
+
+У папці components в нас є header footer
+У папці pages в нас є main сторінки
+У index.html в нас все складається
