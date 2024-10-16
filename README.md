@@ -8,7 +8,7 @@
                 margin-bottom: .625rem;
                 font-size: 2.375rem;
                 font-weight: 700;
-                line-height: 2.75rem;" ><strong>Hello! I&#x27;m Mukola, 👋</strong></div>
+                line-height: 2.75rem;" ><strong>Hello! I&#x27;m Viacheslav, 👋</strong></div>
                 <div class="text_h2" style="font-size: 2rem;
                 font-weight: 700;
                 line-height: 2.25rem;"><strong>Programmer-Designer and Frontend Developer</strong></div></div>
